@@ -1,5 +1,4 @@
-// app/page.tsx
-import TaskManager from "../components/TaskManager";
+import TaskManager from "../components/TaskManager/index";
 
 export default function Page() {
   return <TaskManager />;
